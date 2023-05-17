@@ -17,7 +17,7 @@ Este documento se actualiza a medida que se van dictando las clases y se resuelv
     - **Teoría:** Algoritmos de machine learning en cada tipología. Valoración de algoritmos más adecuados y optimización. Diferentes tipos de machine learning para resolver problemas de clasificación, regresión, clustering y reglas de asociación.
     - **Práctica:** Utilización de Librerías de Python para Machine Learning. Scikit-learn. Problemas para un modelo de CLASIFICACIÓN. Problemas que se resuelven con un modelo de REGRESIÓN. Problemas para ser resueltos mediante un modelo de CLUSTERING. Problemas donde se aplican modelos de REGLAS DE ASOCIACIÓN.
 
-### TTramo 2: Inteligencia Artificial aplicando Phyton
+### Tramo 2: Inteligencia Artificial aplicando Phyton
 - **Módulo 1:**
     - **Teoría:** Inteligencia artificial y Redes Neuronales.. Aprendizaje Supervisado y no supervisado. Redes neuronales convolucionales profundas (Deep Convolutional Neural Networks, DCNNs).
     - **Práctica:** Realización de un estudio de caso sobre aplicación de redes neuronales para los reconocimientos de imágenes. Identificación de bases de datos con dataset de uso libre. Aplicación y uso de librerías en Python:
