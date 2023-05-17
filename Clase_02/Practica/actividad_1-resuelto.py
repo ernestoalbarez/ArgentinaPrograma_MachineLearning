@@ -15,7 +15,7 @@ ejercicio_1()
 # 2. Pedir al usuario que ingrese su nombre usando input() e imprimir un saludo en consola usando print().
 def ejercicio_2():
     nombre_ingresado = input("Ingrese nombre: ")
-    print(f' Hola", "{nombre_ingresado}!')
+    print(f' Hola, {nombre_ingresado}!')
 
 print("\nEjercicio 2:")
 ejercicio_2()
@@ -77,14 +77,13 @@ print("\nEjercicio 7:")
 ejercicio_7()
 
 # 8. Crear una función que reciba una cadena de texto como parámetro y retorne la cantidad de caracteres que tiene.
-def ejercicio_8():
+def ejercicio_8(cadena_ingresada):
     cantidad_caracteres = 0
-    cadena_ingresada = input("Ingrese un texto: ")
 
     for caracter in cadena_ingresada:
         cantidad_caracteres += 1
     
-    print(f'La cantidad de caracteres en la cadena ingresada es: {cantidad_caracteres}')
+    return cantidad_caracteres
 
 
 # 9. Crear una función que reciba una lista de números enteros como parámetro y retorne el número más grande de la lista.
@@ -111,4 +110,4 @@ def ejercicio_10(lista_cadenas):
         if cantidad_letras > 5:
             cantidad_max_5 +=1
     
-    print(f'La cantidad de cadenas con mas de 5 caracteres es: {cantidad_max_5}')
+    return cantidad_max_5
