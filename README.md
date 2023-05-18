@@ -46,4 +46,4 @@ requeridas
 ## Clase 2
 Se profundiza en los conceptos básicos de Python y la utilización de la librería Matplotlib para visualizar datos
 - [Teoría](Clase_02/Teoria/): Conceptos básicos de Python
-- [Practica](Clase_02/Practica/): Matplotlib
+- [Practica](Clase_02/Practica/clase2.md): Ejercicios de lógica utilizando Python
