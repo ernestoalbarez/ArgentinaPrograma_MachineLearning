@@ -1,13 +1,16 @@
 # Resolución de ejericcios de la clase 2
 
-1. Imprimir **"¡Hola", "mundo!"** en la consola usando `print()`.
+- [Consignas de ejercicios](actividad_1.py)
+- [Archivo con ejercios resueltos](actividad_1-resuelto.py)
+
+## 1. Imprimir **"¡Hola", "mundo!"** en la consola usando `print()`.
     ```
     print("Hola, mundo!")
     ```
     La función `print()` muestra en la consola, lo que reciba dentro de los paréntesis
     > En este caso hay que enviar un texto *"Hola, mundo!"* y eso se muestra en la consola
 
-2. Pedir al usuario que ingrese su nombre usando `input()` e imprimir un saludo en consola usando `print()`.
+## 2. Pedir al usuario que ingrese su nombre usando `input()` e imprimir un saludo en consola usando `print()`.
     ```
     nombre_ingresado = input("Ingrese nombre: ")
     print(f' Hola, {nombre_ingresado}!')
@@ -17,7 +20,7 @@
     - En la función `print()` se pueden combiar textos con información contenida en variables, gracias a la *f* al principio, utilizando comillas simples y ecribiendo las variables entre corchetes
     > `f'Esto es texto {esto_es_una_variable}'`
 
-3. Sumar dos números ingresados por el usuario mediante `input()` y luego mostrar el resultado en consola usando `print()`.
+## 3. Sumar dos números ingresados por el usuario mediante `input()` y luego mostrar el resultado en consola usando `print()`.
     ```
     primer_ingreso_tipo_texto = input("Ingrese el primer numero: ")
     segundo_ingreso_tipo_texto = input("Ingrese el segundo numero: ")
@@ -25,7 +28,7 @@
     primer_ingreso_tipo_numerico = int(primer_ingreso_tipo_texto)
     segundo_ingreso_tipo_numerico = int(segundo_ingreso_tipo_texto)
 
-    resultado_de_suma = primer_ingreso_tipo_numerico + segundo_ingreso
+    resultado_de_suma = primer_ingreso_tipo_numerico + segundo_ingreso_tipo_numerico
 
     print(f'El resulrado de la suma es: {resultado_de_suma}')
     ```
@@ -33,7 +36,7 @@
     - Las dos variables que terminan en *_tipo_numerico* son la conversión de esos datos ingresados por el usuario de texto a número, mas específicamente a número entero, ya que se está utilizando la función `int()`
     - La variable `resultado_de_suma` almacena el resultado de la operacón matemática, que es posibe gracias a que ambas variables a sumar son del tipo númerico
 
-4. Calcular el área de un triángulo a partir de la base y la altura ingresadas por el usuario mediante `input()` y luego mostrar el resultado en consola.
+## 4. Calcular el área de un triángulo a partir de la base y la altura ingresadas por el usuario mediante `input()` y luego mostrar el resultado en consola.
     > El calculo para el área de un triángulo es: **(base*altura)/2**
 
     ```
@@ -47,7 +50,7 @@
     - la función `int()` recibe como argumento a la función `input()`, eso transforma el dato del tipo texto al tipo numécico en una sola línea de código
     - se realiza un cálculo matemático dentro de los corchetes en la función `print()`, esto es totalmente válido 
 
-5. Calcular el promedio de tres números ingresados por el usuario mediante input() y luego mostrar el resultado en consola.
+## 5. Calcular el promedio de tres números ingresados por el usuario mediante `input()` y luego mostrar el resultado en consola.
     ```
     primer_ingreso = int(input("Ingrese el primer numero: "))
     segundo_ingreso = int(input("Ingrese el segundo numero: "))
@@ -59,7 +62,7 @@
     ```
     Se podría realizar el calculo del promedio dentro de la función `print()` pero quedaría demasiado largo para leer
 
-6. Crear una lista con los siguientes números enteros: `[2, 4, 6, 8, 10, 12, 14, 16, 18, 20]` y mostrar por pantalla el resultado de sumar todos los números de la lista.
+## 6. Crear una lista con los siguientes números enteros: `[2, 4, 6, 8, 10, 12, 14, 16, 18, 20]` y mostrar por pantalla el resultado de sumar todos los números de la lista.
     ```
     suma = 0
     lista_enteros = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
@@ -72,7 +75,7 @@
     - La variable `suma` está *inicializada* en cero, que es el neutro de la suma. Esto se hace para "limpiar" la variable y cuando le sumemos datos, nos aseguramos que la sumatoria dará un resultado esperado
     - El loop `for` sirve para realizar tareas repetitivas, en este caso vamos a realizar sumas repetidas cuyos resultados se almacenan en la variable `suma`
     - La expresión `suma += numero` es lo mismo que `suma = suma + numero`, en otras palabras "realizar la operación *suma + numero* y el resultado guardarlo en la variable *suma*"
-7. Crear una función que reciba un número entero como parámetro y retorne el resultado de multiplicarlo por 2. Imprimir el resultado de invocarla pasándole como argumento un 5.
+## 7. Crear una función que reciba un número entero como parámetro y retorne el resultado de multiplicarlo por 2. Imprimir el resultado de invocarla pasándole como argumento un 5.
     ```
     def duplicar(numero):
         return numero * 2
@@ -85,7 +88,7 @@
     - La palabra reservada `return` indica que la función devuelve un resultado luego cumplir con su trabajo
     - Es posible invocar a la función dentro de otra, en este caso dentro del `print()`
     > Ya habíamos visto un ejemplo con `int(input("mensaje"))`
-8. Crear una función que reciba una cadena de texto como parámetro y retorne la cantidad de caracteres que tiene.
+## 8. Crear una función que reciba una cadena de texto como parámetro y retorne la cantidad de caracteres que tiene.
     ```
     def contar_cantidad_de_caracteres_en_cadena_de_texto(cadena_ingresada):
         cantidad_caracteres = 0
@@ -98,7 +101,7 @@
     - La variable `cantidad_caracteres` comienza en cero para luego ir contanto de uno en uno la cantidad de caracteres del texto ingresado por agumento
     - La expresión `for caracter in cadena_ingresada:` va reemplazando el valor de la variable `caracter` en cada iteración, la primera vez se le asigna el valor del primer caracter; la segunda vez el valor del segundo caracter; y así hasta que llege al final de la cadena de texto
 
-9. Crear una función que reciba una lista de números enteros como parámetro y retorne el número más grande de la lista.
+## 9. Crear una función que reciba una lista de números enteros como parámetro y retorne el número más grande de la lista.
     ```
     def encontrar_valor_maximo_en_lista(lista_numeros):
         maximo = lista_numeros[0]
@@ -112,7 +115,7 @@
     - Lo primero que se hace es asumir que el primer valor de la lista es el máimo valor
     - Luego se va comparando el valor de la variable `maximo` con cada uno de los valores de la lista; si el valor que está en la lista es mayor, entonces este pasa  ser el nuevo máximo
     - La expresión `lista_nummeros[1:]` omite el primer valor de la lista, ya que este se encuentra previamente almacenado en la variable `maximo`
-10. Crear una función que reciba una lista de cadenas de texto como parámetro y retorne la cantidad de cadenas que tienen más de 5 caracteres.
+## 10. Crear una función que reciba una lista de cadenas de texto como parámetro y retorne la cantidad de cadenas que tienen más de 5 caracteres.
     ```
     def contar_cadenas_mas_de_cinco_caracteres(lista_cadenas):
         cantidad_max_5 = 0
