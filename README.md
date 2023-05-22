@@ -32,18 +32,22 @@ construir y entrenar modelos.
 ### Tramo 3: Curso de Inteligencia Artificial aplicando Phyton
 - **Módulo 1:**
     - **Teoría:** La matriz de confusión como herramienta del aprendizaje automático. La Exactitud (en inglés Accuracy) y la Precisión (en inglés Precision). La Sensibilidad (en Inglés Recall o sensitivity) y la Especificidad (En inglés Especificity).EL F1 SCORE. Consejos generales sobre La matriz de confusión y sus métricas. Clases desbalanceadas en modelos de Machine Learning. 
-    - **Práctica:** Comprensión de la Matriz de Confusión y Cómo Implementarla en Python. Librerías de Python para Visualización: Matplotlib, Seaborn, Bokeh
+    - **Práctica:** Comprensión de la Matriz de Confusión y Cómo Implementarla en Python. Librerías de Python para Visualización: Matplotlib, Seaborn, Bokeh.
 - **Módulo 2:**
     - **Teoría:** Análisis exploratorio, para comprobar el desequilibrio entre las clases. Estrategias: Compensación por penalización. Realización de submuestreo en la clase mayoritaria. Oversampling de la clase minoritaria. Combinando resampling con Smote-Tomek. Ensamble de Modelos con Balanceo. Mapas de calor y matriz de correlaciones.
     - **Práctica:** Librerías de Python para Deep Learning: Tensor Flow, Keras, PyTorch. La visualización de datos para entender mejor tanto los datos como el problema, librerías (Matplotlib, Seaborn, Bokeh). La visualización de datos herramienta útil para comprender los resultados y analizar los errores.
 ## Clase 1
-Introducción teórica general y la instalación de las
-herramientas necesarias para empezar a programar en Python y utilizar las librerías
+Introducción teórica general y la instalación de las herramientas necesarias para empezar a programar en Python y utilizar las librerías.
 requeridas
 - [Teoría](Clase_01): En qué consiste el Machine Learning y qué se diferencia de la Inteligencia Artificial y Deep Learning.
 - [Práctica](https://youtu.be/uNKtx_ct9iI): Instalación de Python + Jupyter
 
 ## Clase 2
-Se profundiza en los conceptos básicos de Python y la utilización de la librería Matplotlib para visualizar datos
+Se profundiza en los conceptos básicos de Python.
 - [Teoría](Clase_02/Teoria/): Conceptos básicos de Python
 - [Practica](Clase_02/Practica/clase2.md): Ejercicios de lógica utilizando Python
+
+## Clase 3
+Se introduce la utilización de la librería [Matplotlib](https://matplotlib.org/stable/index.html) para visualizar datos, el análisis de datos y cómo se utiliza Python para realizarlo. Además, se realiza una introducción a la librería [NumPy](https://numpy.org/) y su uso en cálculo numérico.
+- [Teoría](Clase_03/Teoria/): Introducción al análisis de datos y al manejo de Python para el análisis de datos
+- [Practica](Clase_03/Practica/clase3.md): Introducción a las librerías: Matplotlib
