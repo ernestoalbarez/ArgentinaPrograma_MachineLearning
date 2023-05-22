@@ -90,7 +90,7 @@ def ejercicio_8(cadena_ingresada):
 def ejercicio_9(lista_numeros):
     maximo = lista_numeros[0]
 
-    for numero in lista_nummeros[1:]:
+    for numero in lista_numeros[1:]:
         if numero > maximo:
             maximo = numero
     
