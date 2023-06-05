@@ -51,3 +51,8 @@ Se profundiza en los conceptos básicos de Python.
 Se introduce la utilización de la librería [Matplotlib](https://matplotlib.org/stable/index.html) para visualizar datos, el análisis de datos y cómo se utiliza Python para realizarlo. Además, se realiza una introducción a la librería [NumPy](https://numpy.org/) y su uso en cálculo numérico.
 - [Teoría](Clase_03/Teoria/): Introducción al análisis de datos y al manejo de Python para el análisis de datos
 - [Practica](Clase_03/Practica/clase3.md): Introducción a las librerías: Matplotlib
+
+## Clase 4
+Se profundiza en las librerías Pandas y SciPy para el análisis de datos
+- [Teoría](Clase_04/Teoria): Introducción a las librerías Pandas y SciPy para el análisis de datos.
+- [Práctica](Clase_04/Practica/clase4.md): Utilización de las librerías Pandas y SciPy para el análisis de datos.
