@@ -1,5 +1,7 @@
 # Resolución de ejericcios de la clase 2
 
+- [Consignas](actividad_2.py)
+
 ## 1. Configurar el entorno virtual
 - Se debe crear un ambiente virtual
 ```
