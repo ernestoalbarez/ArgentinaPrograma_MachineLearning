@@ -30,4 +30,5 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-Ahora se puede trabajar con las consignas y para ejecutar el archivo, ejecutar `python actividad_2.py`
+
+> Ahora se puede trabajar con las consignas y para ejecutar el archivo, ejecutar `python actividad_2.py`
