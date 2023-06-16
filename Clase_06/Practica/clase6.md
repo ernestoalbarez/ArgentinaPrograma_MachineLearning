@@ -24,10 +24,9 @@ Al principio del archivo, agregar el import
 ```
 import pandas as pd
 ```
-
 > Ahora se puede trabajar con las consignas y para ejecutar el archivo, ejecutar `python actividad_3.py`
 
-## 4. Resolición de los ejercicios
+## 4. Resolución de los ejercicios
 1. Antes de comenzar, se deben importar los datos de una fuente, en este caso se importan los datos desde un archivo csv
     ```
     df = pd.read_csv("datos.csv")
