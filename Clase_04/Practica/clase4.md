@@ -1,4 +1,4 @@
-# Resolución de ejericcios de la clase 2
+# Resolución de ejericcios de la clase 4
 
 - [Consignas](actividad_2.py)
 
