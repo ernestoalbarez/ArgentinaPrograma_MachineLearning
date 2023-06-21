@@ -39,20 +39,29 @@ construir y entrenar modelos.
 ## Clase 1
 Introducción teórica general y la instalación de las herramientas necesarias para empezar a programar en Python y utilizar las librerías.
 requeridas
-- [Teoría](Clase_01): En qué consiste el Machine Learning y qué se diferencia de la Inteligencia Artificial y Deep Learning.
+- [Teoría](Clase_01/cuestionario.md): En qué consiste el Machine Learning y qué se diferencia de la Inteligencia Artificial y Deep Learning.
 - [Práctica](https://youtu.be/uNKtx_ct9iI): Instalación de Python + Jupyter
 
 ## Clase 2
 Se profundiza en los conceptos básicos de Python.
-- [Teoría](Clase_02/Teoria/): Conceptos básicos de Python
-- [Practica](Clase_02/Practica/clase2.md): Ejercicios de lógica utilizando Python
+- [Teoría](Clase_02/Teoria/cuestionario.md): Conceptos básicos de Python.
+- [Practica](Clase_02/Practica/clase2.md): Ejercicios de lógica utilizando Python.
 
 ## Clase 3
-Se introduce la utilización de la librería [Matplotlib](https://matplotlib.org/stable/index.html) para visualizar datos, el análisis de datos y cómo se utiliza Python para realizarlo. Además, se realiza una introducción a la librería [NumPy](https://numpy.org/) y su uso en cálculo numérico.
-- [Teoría](Clase_03/Teoria/): Introducción al análisis de datos y al manejo de Python para el análisis de datos
-- [Practica](Clase_03/Practica/clase3.md): Introducción a las librerías: Matplotlib
+Se introduce la utilización de la librería [Matplotlib](https://matplotlib.org/stable/index.html) para visualizar datos, el análisis de datos y cómo se utiliza Python para realizarlo.
+- [Teoría](Clase_03/Teoria/cuestionario.md): Introducción al análisis de datos y al manejo de Python para el análisis de datos.
+- [Practica](Clase_03/Practica/clase3.md): Introducción a las librerías: Matplotlib.
 
 ## Clase 4
-Se profundiza en las librerías Pandas y SciPy para el análisis de datos
-- [Teoría](Clase_04/Teoria): Introducción a las librerías Pandas y SciPy para el análisis de datos.
-- [Práctica](Clase_04/Practica/clase4.md): Utilización de las librerías Pandas y SciPy para el análisis de datos.
+Se introduce en la librería [NumPy](https://numpy.org/) y su uso en cálculo numérico.
+- [Teoría](Clase_04/Teoria/cuestionario.md): Introducción a las librerías Numpy para el cálculo numérico.
+- [Práctica](Clase_04/Practica/clase4.md): Utilización de las librerías Numpy para el análisis de datos.
+
+## Clase 5
+Se profundiza en la librería Pandas para el análisis de datos
+- [Teoría](Clase_05/Teoria): Profundización de la librería Pandas para el análisis de datos.
+
+## Clase 6
+Se introduce el concepto de algoritmos de machine learning, sus tipologías, cómo se valoran y se optimizan.
+- [Teoría](Clase_06/Teoria/cuestionario.md): Introducción a los algoritmos de machine learning y sus tipologías. Valoración de los algoritmos más adecuados y optimización.
+- [Práctica](Clase_06/Practica/actividad_3.py): Utilización de las librerías Pandas para el análisis de datos.
