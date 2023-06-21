@@ -59,7 +59,7 @@ Se introduce en la librería [NumPy](https://numpy.org/) y su uso en cálculo nu
 
 ## Clase 5
 Se profundiza en la librería Pandas para el análisis de datos
-- [Teoría](Clase_05/Teoria): Profundización de la librería Pandas para el análisis de datos.
+- [Teoría](Clase_05/Teoria/cuestionario.md): Profundización de la librería Pandas para el análisis de datos.
 
 ## Clase 6
 Se introduce el concepto de algoritmos de machine learning, sus tipologías, cómo se valoran y se optimizan.
