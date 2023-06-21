@@ -1,7 +1,4 @@
 # Cuestionario guia de lectura del material
-
-- [Guia de Estudio](Machine Learning I Semana 04 - Guia de Estudio.pdf)
-- [Modulo 2](Machine Learning I Semana 04 - Modulo 2.pdf)
 - [Clase 4 - YouTube](https://youtu.be/gtscsOMSEPk)
 
 ## 1. ¿Qué es numpy y para qué se utiliza?

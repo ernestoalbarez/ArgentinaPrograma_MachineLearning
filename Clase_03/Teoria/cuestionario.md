@@ -1,6 +1,4 @@
 # Cuestionario guia de lectura del material
-
-- [Guia de Estudio](Machine Learning I Semana 03 - Guia de Estudio.pdf)
 - [Clase 3 - YouTube](https://youtu.be/ucz4qhYV76s)
 
 ## 1. ¿Qué es matplotlib y para qué sirve?

@@ -1,7 +1,4 @@
 # Cuestionario guia de lectura del material
-
-- [Conceptos básicos](Clase_02/Teoria/Machine Learning I Semana 02 - Conceptos básicos de Python.pdf)
-- [Modulo](Clase_02/Teoria/Machine Learning I Semana 02 - Modulo 1.pdf)
 - [Clase 2 - Youtube](https://youtu.be/sFMemySEMlg)
 
 ## 1. ¿Qué es python y qué ventajas tiene como lenguaje de programación?

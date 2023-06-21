@@ -1,6 +1,4 @@
 # Cuestionario guia de lectura del material
-- [Guia de Estudio](Clase_01/Machine Learning I Semana 01 - Guia de Estudio.pdf)
-- [Modulo 1](Clase_01/Machine Learning I Semana 01 - Modulo 1.pdf)
 
 ## 1. ¿Qué es la inteligencia artificial?
 La inteligencia artificial (IA) es una rama de la informática que se ocupa del desarrollo de sistemas y programas capaces de realizar tareas que normalmente requerirían de la inteligencia humana. La IA busca imitar o simular la capacidad de razonamiento, aprendizaje y toma de decisiones de los seres humanos. Utiliza algoritmos y modelos matemáticos para procesar grandes cantidades de datos y generar respuestas o soluciones de manera automática. Los sistemas de IA pueden aprender de la experiencia y adaptarse a nuevas situaciones, lo que les permite mejorar su rendimiento con el tiempo.

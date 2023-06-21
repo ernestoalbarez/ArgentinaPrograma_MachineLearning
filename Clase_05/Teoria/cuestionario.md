@@ -1,7 +1,4 @@
 # Cuestionario guia de lectura del material
-
-- [Análisis exploratorio de datos](Machine Learning I Semana 05 - Análisis exploratorio de datos.pdf)
-- [Modulo 2](Machine Learning I Semana 05 - Modulo 2.pdf)
 - [Clase 5 - YouTube](https://youtu.be/4sAeT16H62M)
 
 ## 1. ¿Qué es numpy y para qué se utiliza?
