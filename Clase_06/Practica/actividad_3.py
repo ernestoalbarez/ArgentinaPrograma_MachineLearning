@@ -64,7 +64,7 @@ print(filtro_cantidad_precio)
 # Imprimir por consola el DataFrame resultante.
 print('\n9. Eliminar la columna "Precio"')
 
-df = df.drop('Precio', axis=1)
+df = df.drop(columns='Precio')
 print(df)
 
 # 10. Eliminar los registros donde se repita el valor de la columna "Producto"
